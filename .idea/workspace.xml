@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5e924574-5359-49d9-9a2c-78881f54542a" name="Changes" comment="" />
+    <list default="true" id="5e924574-5359-49d9-9a2c-78881f54542a" name="Changes" comment="POM excludes">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin-management-module/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/admin-management-module/src/main/resources/application.properties" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,22 +52,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "17",
-    "last_opened_file_path": "C:/Users/Adnan/IdeaProjects/E-College Info System",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
-    "spring.configuration.checksum": "153dd89d56b4f77be2ef58b356833196"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Adnan/IdeaProjects/E-College Info System&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;6c0a7ac4cbcde93aee3737d9a98b110b&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Adnan\IdeaProjects\E-College Info System\user-management-module\src\main\java\com\adnan\dto" />
@@ -88,6 +92,22 @@
     </option>
   </component>
   <component name="RunManager" selected="Spring Boot.AdminManagementModuleApplication">
+    <configuration name="All in common-module (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="common-module" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in common-module" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="common-module" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="AdminManagementModuleApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="admin-management-module" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.adnan.AdminManagementModuleApplication" />
@@ -109,6 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in common-module (1)" />
+        <item itemvalue="JUnit.All in common-module" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -123,8 +149,46 @@
       <workItem from="1668706267471" duration="783000" />
       <workItem from="1668707142074" duration="978000" />
       <workItem from="1668708198130" duration="7104000" />
-      <workItem from="1668719755267" duration="139000" />
+      <workItem from="1668719755267" duration="717000" />
+      <workItem from="1668750989819" duration="659000" />
+      <workItem from="1668845225917" duration="2757000" />
     </task>
+    <task id="LOCAL-00001" summary="app.props">
+      <created>1668720219603</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1668720219603</updated>
+    </task>
+    <task id="LOCAL-00002" summary="app.props">
+      <created>1668720311300</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1668720311300</updated>
+    </task>
+    <task id="LOCAL-00003" summary="java version">
+      <created>1668846585524</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1668846585524</updated>
+    </task>
+    <task id="LOCAL-00004" summary="java version 1.8">
+      <created>1668847276774</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1668847276774</updated>
+    </task>
+    <task id="LOCAL-00005" summary="POM excludes">
+      <created>1668848064529</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1668848064529</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -146,5 +210,12 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="app.props" />
+    <MESSAGE value="java version" />
+    <MESSAGE value="java version 1.8" />
+    <MESSAGE value="POM excludes" />
+    <option name="LAST_COMMIT_MESSAGE" value="POM excludes" />
   </component>
 </project>
