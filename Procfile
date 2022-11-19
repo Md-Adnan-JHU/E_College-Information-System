@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -cp target/classes:target/dependency/*
+web: java -pom target/admin-management-module-0.0.1-SNAPSHOT.pom
